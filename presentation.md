@@ -1,5 +1,5 @@
 ---
-title: Scratch Kursmaterial
+title: Scratch Kurs
 author: Marcel Suter
 copyright: © 2024 by Marcel Suter
 license: CC BY-NC-SA 4.0
@@ -13,22 +13,38 @@ license: CC BY-NC-SA 4.0
 
 ### Ablauf
 
-Start (8h30)
+- *Start (8h30)*
 - Vorstelligsrundi
 - Programmstrukturen
 - Scratch Einführung
-Mittagessen
+- *Mittagessen*
 - Theorieblock 2
 - Offener Nachmittag
-- Präsentation (16:00)
-Schluss (16:30)
+- Präsentation
+- *Schluss (16:30)*
 
 ---
 
-* bullet points
-* are supported, too
+# Programmstrukturen
+* *Anweisung* ("Mach...")
+* *Schleife* ("Solange bis..." oder "x mal...")
+* *Bedingung* ("Wenn... dann... sonst...")
 
 ---
+
+# Einführung
+## Koordinatensystem
+
+
+:todo:
+
+---
+
+# Einführung
+## Drehung
+
+
+:todo:
 
 ![](./assets/me.jpg)
 
