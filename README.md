@@ -1,7 +1,9 @@
 # scratch-erste-schritte
 *Ferienpass: Programmieren mit «Scratch» – Erste Schritte*
 
-Dieses Repository enthält die Präsentation für den Scratch-Kurs
+Dieses Repository enthält die Präsentation für den [Scratch-Kurs](https://marcelsuter.ch/projekte/ferienpass-programmieren-mit-scratch-erste-schritte/).
+
+Die Präsentation verwendet [pfwr](https://github.com/nikku/pfwr).
 
 # Nutzung
 
