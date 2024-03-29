@@ -12,4 +12,4 @@ npm run build
 ```
 # Anzeige
 
-Datei presentation.html im Browser der Wahl öffnen
+Datei [presentation.html im Browser der Wahl öffnen](https://html-preview.github.io/?url=https://github.com/suterma/scratch-erste-schritte/blob/main/presentation.html)
